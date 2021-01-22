@@ -8,6 +8,23 @@ A list of model compression and AutoML including Neural Architecture Search, Qua
 
 <h2>Neural Architecture Search</h2>
 
+<h3>2021</h3>
+
+|                            Title                             | Conference | Code |
+| :----------------------------------------------------------: | :--------: | :--: |
+| Evaluating the Disentanglement of Deep Generative Models through Manifold Topology | ICLR 2021  |      |
+| HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark | ICLR 2021  |      |
+| Geometry-Aware Gradient Algorithms for Neural Architecture Search | ICLR 2021  |      |
+|            Zero-Cost Proxies for Lightweight NAS             | ICLR 2021  |      |
+|         DrNAS: Dirichlet Neural Architecture Search          | ICLR 2021  |      |
+| NAS-Bench-ASR: Reproducible Neural Architecture Search for Speech Recognition | ICLR 2021  |      |
+| Interpretable Neural Architecture Search via Bayesian Optimisation with Weisfeiler-Lehman Kernels | ICLR 2021  |      |
+| Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective | ICLR 2021  |      |
+
+
+
+<h3>2020</h3>
+
 | Title                                                        | Conference | Code |
 | ------------------------------------------------------------ | ---------- | ---- |
 | Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search | ICML 2020  |      |
@@ -32,7 +49,21 @@ A list of model compression and AutoML including Neural Architecture Search, Qua
 
 <h2>Quantization</h2>
 
+<h3>2021</h3>
 
+|                            Title                             | Conference | Code |
+| :----------------------------------------------------------: | :--------: | :--: |
+| BRECQ: Pushing the Limit of Post-Training Quantization by Block Reconstruction | ICLR 2021  |      |
+| Simple Augmentation Goes a Long Way: ADRL for DNN Quantization | ICLR 2021  |      |
+| Degree-Quant: Quantization-Aware Training for Graph Neural Networks | ICLR 2021  |      |
+| BSQ: Exploring Bit-Level Sparsity for Mixed-Precision Neural Network Quantization | ICLR 2021  |      |
+| Training with Quantization Noise for Extreme Model Compression | ICLR 2021  |      |
+
+
+
+
+
+<h3>2020</h3>
 
 | Title                                                        | Conference | Code |
 | ------------------------------------------------------------ | ---------- | ---- |
@@ -60,7 +91,28 @@ A list of model compression and AutoML including Neural Architecture Search, Qua
 
 
 
+
+
 <h2>Pruning</h2>
+
+<h3>2021</h3>
+
+| Title                                                        | Conference | Code |
+| ------------------------------------------------------------ | ---------- | ---- |
+| Growing Efficient Deep Networks by Structured Continuous Sparsification | ICLR 2021  |      |
+| A Gradient Flow Framework For Analyzing Network Pruning      | ICLR 2021  |      |
+| Neural Pruning via Growing Regularization                    | ICLR 2021  |      |
+| ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations | ICLR 2021  |      |
+| A Deeper Look at the Layerwise Sparsity of Magnitude-based Pruning | ICLR 2021  |      |
+| Pruning Neural Networks at Initialization: Why Are We Missing the Mark? | ICLR 2021  |      |
+| Robust Pruning at Initialization                             | ICLR 2021  |      |
+| Network Pruning That Matters: A Case Study on Retraining Variants | ICLR 2021  |      |
+
+
+
+
+
+<h3>2020</h3>
 
 | Title                                                        | Conference | Code |
 | ------------------------------------------------------------ | ---------- | ---- |
